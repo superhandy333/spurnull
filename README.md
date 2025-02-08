@@ -1,5 +1,6 @@
-# spurnull
-Hier entsteht eine Website zu den Eisenbahnfreunden Spur-0 in Meine.
+# Papenteich-Mobagruppe
+
+Hier entsteht eine Website der Eisenbahnfreunde Spur-0 in Meine.
 
 # Wer sind wir?
 
