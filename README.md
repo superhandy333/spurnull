@@ -14,7 +14,7 @@ Drucker, Selbstbauer, Eisenbahnhistoriker, Sammler und vieles mehr. Wir sind in 
 
 ## Treffen
 
-Wir sind aktiv in [Papenteich](https://de.wikipedia.org/wiki/Samtgemeinde_Papenteich) seit
+Wir sind aktiv im [Papenteich](https://de.wikipedia.org/wiki/Samtgemeinde_Papenteich) seit
 1999 und haben seitdem viele Modultreffen durchgeführt.
 
 - Regionaltreffen
@@ -42,8 +42,7 @@ zu lagern und gemeinsam zu spielen, wenn für ein Wochenende eine Räumlichkeit 
 
 ## Stammtisch
 
-Einen regelmäßigen Stammtisch der Mobagruppe Papenteich in unserer Gemeinde
-Papenteich gibt es bisher noch nicht regelmäßig. Aber wir nehmen am Braunschweiger N-Bahn-Stammtisch teil. Dieser findet jeden 1. Montag im Monat ab 19:00 Uhr im
+Einen Stammtisch der Mobagruppe Papenteich in unserer Gemeinde Papenteich gibt es bisher noch nicht regelmäßig. Aber wir nehmen am Braunschweiger N-Bahn-Stammtisch teil. Dieser findet jeden 1. Montag im Monat ab 19:00 Uhr im
 Gartenlokal des Kleingarten Eichtal e.V. im Braunschweiger Norden statt.
 
 In Vorbereitung sind Treffen beim Schützenverein in Meine auf besondere Veranlassung, zumeist
@@ -53,15 +52,7 @@ Sportvereins „Rote Wiese“ in Braunschweig stattfindet.
 
 ## Kontakt
 
-Interesse? Mach mit! Wer sich gern aktiv oder auch unterstützend einbringen möchte, melde sich bitte bei:
-
-~~~
-Ubbo Lanske
-Rübenweg 3
-38527 Meine
-~~~
-
-Mailadresse: info@n-bahn-braunschweig.de
+Interesse? Mach mit! Wer sich gern aktiv oder auch unterstützend einbringen möchte, melde sich bitte bei **Ubbo Lanske**. Mailadresse: info@n-bahn-braunschweig.de
 
 ## Modultreffen Meine Juni 2024
 
@@ -70,7 +61,7 @@ Mailadresse: info@n-bahn-braunschweig.de
 
 Arrangementplan
 
-![alt text](images/b4.png)
+![Modultreffen Meine](images/b4.png)
 
 ## Impressum
 
